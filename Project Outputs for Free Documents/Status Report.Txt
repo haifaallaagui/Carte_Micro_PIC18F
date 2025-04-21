@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of PCB Document [Carte_Micro_PIC18F.PcbDoc]
+   Generated File[Bill of Materials-Carte_Micro_PIC18F.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 00:22:25 On 12/05/2023

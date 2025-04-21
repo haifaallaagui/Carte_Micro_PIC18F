@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Carte_Micro_PIC18F.PcbDoc   12/05/2023  00:22:23
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Carte_Micro_PIC18F.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.6mm (24mil)                                             Round             9         PTH        130.56mm (5.14inch)
+T2      0.7mm (28mil)                                             Round             9         PTH        124.54mm (4.90inch)
+T3      0.711mm (28mil)                                           Round             11        PTH        125.10mm (4.93inch)
+T4      0.75mm (30mil)                                            Round             3         PTH        2.54mm (0.10inch)
+T5      0.9mm (35mil)                                             Round             46        PTH        185.63mm (7.31inch)
+T6      1mm (39mil)                                               Round             22        PTH        215.39mm (8.48inch)
+T7      1.2mm (47mil)                                             Round             2         PTH        10.46mm (0.41inch)
+T8      1.27mm (50mil)                                            Round             2         PTH        2.54mm (0.10inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              104
+
+Total Processing Time (hh:mm:ss) : 00:00:00
